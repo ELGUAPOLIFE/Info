@@ -1,4 +1,4 @@
-# FIFA Worldcup Schedule BD Time
+## FIFA Worldcup Schedule BD Time
 ### কারা, কোন গ্রুপে
 
 |   |   |
@@ -149,8 +149,20 @@
 |---|---|---|---|---|
 |১৮ জুলাই|ম্যাচ ১০৩|তৃতীয় স্থান নির্ধারণী ম্যাচ|মায়ামি|রাত ৩টা|
 
-## ফাইনাল
+### ফাইনাল
 
 |তারিখ|ম্যাচ নং|ম্যাচ|ভেন্যু|বাংলাদেশ সময়|
 |---|---|---|---|---|
 |১৯ জুলাই|ম্যাচ ১০৪|ফাইনাল|নিউইয়র্ক–নিউজার্সি|রাত ১টা|
+
+## IPTV Playlist link
+### All Channel
+- https://iptv-org.github.io/iptv/index.m3u
+### All BD Channel Playlist
+- https://iptv-org.github.io/iptv/countries/bd.m3u
+### Other
+- https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8k
+### Another
+- https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+### Another one
+- https://raw.githubusercontent.com/DrSujonPaul/Sujon/6dc6a1d4eaa20a9239ae27d8e0f00182b60eeb47/iptv
