@@ -183,6 +183,8 @@
 - https://officialsportzfy.link/
 
 ## Workout Routine
+3 sets × 5 Reps with heavy weights
+
 ### Shoulder
 1. Lateral Raise [Tutorial](https://www.youtube.com/shorts/Kl3LEzQ5Zqs)
 2. Barbell overhead press [Tutorial](https://www.youtube.com/watch?v=KP1sYz2VICk)
