@@ -201,7 +201,7 @@
 2. Neck curl (Front Neck)
 3. Neck extension (Back Neck)
 4. Lateral Neck Flexion (Side Neck)
-5. Side to side rotation (Lied + Hold) 
+5. Side to side rotation (Lied + Hold) [Tutorial](https://youtu.be/yd2IQDIWDfI?t=293)
 ### Triceps
 1. Triceps press down [Tutorial](https://www.youtube.com/shorts/Rc7-euA8FDI)
 2. **Overhead cable triceps extension** (EZ Bar) [Tutorial](https://youtu.be/OpRMRhr0Ycc?t=194)
@@ -223,9 +223,9 @@
 9. Cable Press Around (Punch) (Level) [Tutorial](https://youtu.be/fGm-ef-4PVk?t=733)
 10. Chest Fly (Machine) [Tutorial](https://www.youtube.com/shorts/g3T7LsEeDWQ)
 ### Back
-1. Wide Grip Pull Up /-----\
-2. Neutral Grip Pull Up ||
-3. Chin Up
+1. Pull Up [Tutorial](https://www.youtube.com/watch?v=syS4M1G-rII)
+2. Neutral Grip Pull Up || [Tutorial](https://www.youtube.com/shorts/E9vvwfxSZFc)
+3. Chin Up [Tutorial](https://www.youtube.com/shorts/Oi3bW9nQmGI)
 4. Wide Grip Pull Down /-----\ (Machine) [Tutorial](https://www.youtube.com/shorts/hnSqbBk15tw)
 5. Neutral Grip Pull Down || (Machine) [Tutorial](https://www.youtube.com/watch?v=E1FK9APxk54)
 6. Half Kneeling 1 Arm Lat Pull Down (Cable) [Tutorial](https://www.youtube.com/shorts/a94VLBc4nDs)
@@ -241,50 +241,50 @@
 16. Cable Face Pull (Rope) [Tutorial](https://www.youtube.com/shorts/IeOqdw9WI90)
 17. Deadlift [Tutorial](https://www.youtube.com/shorts/HrXR9MxcU8g)
 ### Biceps
-1. EZ Bar Curl (Angled Grip)
-2. Dumbbell Curl (2 Hands Together)
-3. Hammer Curl DB (2 Hands Together)
-4. Machine Preacher Curl (Bottom Half)
-5. Preacher Curl DB
-6. Preacher Hammer Curl DB
-7. Straight Bar Cable Curl
-8. Face Away Bayesian Cable Curl
+1. EZ Bar Curl (Angled Grip) [Tutorial](https://youtu.be/GNO4OtYoCYk?t=166)
+2. Dumbbell Curl (2 Hands Together) [Tutorial](https://youtu.be/GNO4OtYoCYk?t=218)
+3. Hammer Curl DB (2 Hands Together) [Tutorial](https://youtu.be/GNO4OtYoCYk?t=786)
+4. Machine Preacher Curl (Bottom Half) [Tutorial](https://youtu.be/GNO4OtYoCYk?t=422)
+5. Preacher Curl DB [Tutorial](https://youtu.be/GNO4OtYoCYk?t=265)
+6. Preacher Hammer Curl DB [Tutorial](https://youtu.be/GNO4OtYoCYk?t=855)
+7. Lying DB Curl [Tutorial](https://youtu.be/GNO4OtYoCYk?t=335)
+8. Face Away Bayesian Cable Curl [Tutorial](https://youtu.be/GNO4OtYoCYk?t=628)
 ### Forearm
-1. Wrist Curl (Palm up)
-2. Wrist Extension (Palm down)
-3. Dead Hangs
-4. Reverse Barbell Curl (Palm Down) (Thumbless Grip)
-5. Plate Pinch
-6. Gripers
-7. Wrist Roller
-8. Rice Bucket Movement
-9. Farmer Walk DB (2 Arms)
+1. **Wrist Curl (Palm up)** [Tutorial](https://youtu.be/lpiENczIFrw?t=116)
+2. Wrist Extension (Palm down) [Tutorial](https://youtu.be/lpiENczIFrw?t=146)
+3. Dead Hangs [Tutorial](https://youtu.be/lpiENczIFrw?t=308)
+4. Reverse Barbell Curl (Palm Down) (Thumbless Grip) [Tutorial](https://www.youtube.com/shorts/ZG2n5IcYIcY)
+5. Plate Pinch [Tutorial](https://www.youtube.com/watch?v=jFTV3DQf3HE)
+6. Gripers [Tutorial](https://www.youtube.com/shorts/VdbaLJaBnsA)
+7. Wrist Roller [Tutorial](https://youtu.be/lpiENczIFrw?t=443)
+8. Rice Bucket Movement [Tutorial](https://youtu.be/lpiENczIFrw?t=285)
+9. Farmer Walk DB (2 Arms) [Tutorial](https://www.youtube.com/shorts/1uOs1hP3u4A)
 ### Abs & Core
-1. Sit up i) Normal, ii) Decline
-2. Hanging Knee/ Leg Raise
-3. Dip chair knee/ Leg Raise
-4. Russian Twist
-5. Cable Twist
-6. Dragon Fly
-7. Cable Crunch
-8. Plank
-9. Wheel
+1. Sit up i) Normal [Tutorial](https://www.youtube.com/watch?v=jDwoBqPH0jk), ii) Decline [Tutorial](https://www.youtube.com/watch?v=QhGU5cmNZds)
+2. Hanging Knee/ Leg Raise [Tutorial](https://www.youtube.com/watch?v=QyVq5oUBpss)
+3. Dip chair knee/ Leg Raise [Tutorial](https://www.youtube.com/shorts/AKvRTjwkkHw)
+4. Russian Twist [Tutorial](https://www.youtube.com/watch?v=wkD8rjkodUI)
+5. Cable Twist [Tutorial](https://www.youtube.com/watch?v=pAplQXk3dkU)
+6. Dragon Fly [Tutorial](https://www.youtube.com/shorts/eLCBC6fjtQU)
+7. Cable Crunch [Tutorial](https://www.youtube.com/shorts/K2m0jj6RfYg)
+8. Plank [Tutorial](https://www.youtube.com/shorts/v25dawSzRTM)
+9. Wheel [Tutorial](https://www.youtube.com/shorts/XWJmFD_AdbM)
 ### Legs
 #### Hamstrings (Back)
-1. Seated Leg Curl
-2. Lying Leg Curl
+1. Seated Leg Curl [Tutorial](https://www.youtube.com/shorts/xdbEG3xGLI8)
+2. Lying Leg Curl [Tutorial](https://www.youtube.com/shorts/FMCq0hT3KRU)
 #### Quads (Front)
-1. Barbell Squats
-2. Smith Machine Squats
-3. Leg Extensions
+1. Barbell Squats [Tutorial](https://www.youtube.com/shorts/MLoZuAkIyZI)
+2. Smith Machine Squats [Tutorial](https://www.youtube.com/shorts/iKCJCydYYrE) [Tutorial](https://www.youtube.com/shorts/NxCntzwABlY) 
+3. Leg Extensions [Tutorial](https://www.youtube.com/shorts/iQ92TuvBqRo)
 #### Glutes
-1. Romanian Deadlift
+1. Romanian Deadlift [Tutorial](https://www.youtube.com/shorts/5rIqP63yWFg)
 #### Calves
-1. Calf Raise \----
+1. Calf Raise \---- [Tutorial](https://www.youtube.com/shorts/baEXLy09Ncc)
 ### Cardio
 #### HIIT - 3 times/week
 30 secs sprint, 90 secs walk × (8-10 rounds)
-#### Cycling - 5days/week
+#### [[CYCLING FOR BURNING FAT |Cycling]] - 5 days/week
 Time 50 mins
 Distance 10-20 km
 speed 15-22 km/h
