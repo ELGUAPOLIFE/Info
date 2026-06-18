@@ -284,7 +284,7 @@
 ### Cardio
 #### HIIT - 3 times/week
 30 secs sprint, 90 secs walk × (8-10 rounds)
-#### [[CYCLING FOR BURNING FAT |Cycling]] - 5 days/week
+#### CYCLING - 5 days/week
 Time 50 mins
 Distance 10-20 km
 speed 15-22 km/h
